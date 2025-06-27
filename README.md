@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @nawalchahboune
-- 👀 i am not interested in software engineering
-- 🌱 I’m currently advancing my skills in full-stack development
-- 💞️ I’m looking for a 4-5 month software engineering internship starting in April 2025
-- 📫 How to reach me:
-Personal email: nawalchahbouneimt@gmail.com
-Scholar email: nawal.chahboune@imt-atlantique.net
-- ⚡ Fun fact: I love solving challenging coding problems and playing ping-pong during my breaks!
-
+- 👋 Hi, I’m @nawalchahboune  
+- 🤖 I’m currently diving into the fields of Data Science and Artificial Intelligence  
+- 🌱 I’m also sharpening my skills in full-stack development  
+- 📫 Reach me at:  
+  - Personal: nawalchahbouneimt@gmail.com  
+  - Academic: nawal.chahboune@imt-atlantique.net  
+- ⚡ Fun fact: I love solving complex problems — whether it’s in code or at the ping-pong table!
